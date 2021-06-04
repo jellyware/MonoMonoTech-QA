@@ -1,7 +1,7 @@
 # ものモノテック掲示板
 
 # 質問方法
-1. [Discussions]:https://github.com/jellywareDev/githubTest/discussionsを選択してください。
+1. [Discussions](https://github.com/jellywareDev/githubTest/discussions)を選択してください。
 ![image](https://user-images.githubusercontent.com/85218626/120762072-d6fea400-c550-11eb-8fe1-90e5afb4fe95.png)
 
 2. `New discussion`ボタンを押してください。
