@@ -2,25 +2,18 @@
 
 # 質問方法
 1. [`Discussions`](https://github.com/jellywareDev/githubTest/discussions)を選択してください。
-![image](https://user-images.githubusercontent.com/85218626/120762072-d6fea400-c550-11eb-8fe1-90e5afb4fe95.png)
+![image](https://user-images.githubusercontent.com/62638318/145525616-9b3c1e4b-8689-40b3-ade8-0bf8e1e469e1.png)
 
 2. `New discussion`ボタンを押してください。
-![image](https://user-images.githubusercontent.com/85218626/120762072-d6fea400-c550-11eb-8fe1-90e5afb4fe95.png)
+![image](https://user-images.githubusercontent.com/62638318/145526677-4707d576-c461-4778-9d27-a35b69c3c01f.png)
 
 3. `Select Category`から質問したいコンテンツを選択してください。
-![image](https://user-images.githubusercontent.com/85218626/120762493-46749380-c551-11eb-9517-326f27544803.png)
+![image](https://user-images.githubusercontent.com/62638318/145525799-f08bc5e9-7bb4-488c-89cf-71187a561b0d.png)
 
-4. `Title`に質問内容を記載してください。
-![image](https://user-images.githubusercontent.com/85218626/120762735-7de34000-c551-11eb-92a2-cc4228e1e36d.png)
+4. 入力欄に質問を記載してください。
+![image](https://user-images.githubusercontent.com/62638318/145526248-c36e5ef2-41ed-4196-9eb7-9b6f30a2304f.png)
 
-5. `Write`タブを選択し質問内容の詳細を記載してください。
-![image](https://user-images.githubusercontent.com/85218626/120762945-b8e57380-c551-11eb-999f-fbd1285f4268.png)
+5. `Start discussion`ボタンを押してください。
+![image](https://user-images.githubusercontent.com/62638318/145526467-927af1fd-8b05-4c34-8de3-3cef0cb6ae58.png)
 
-6. `Start discussion`ボタンを押してください。
-![image](https://user-images.githubusercontent.com/85218626/120762945-b8e57380-c551-11eb-999f-fbd1285f4268.png)
-
-7. 質問に回答がつくまで待ちましょう。
-
-# 禁止事項
-
-# Tips
+6. 質問に回答がつくまで待ちましょう。
