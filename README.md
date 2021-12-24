@@ -2,7 +2,7 @@
 
 # 質問方法
 1. [`Discussions`](https://github.com/jellywareDev/githubTest/discussions)を選択してください。
-![image](https://user-images.githubusercontent.com/62638318/145525616-9b3c1e4b-8689-40b3-ade8-0bf8e1e469e1.png)
+![image](https://user-images.githubusercontent.com/62638318/147305744-f43dc7df-dad3-47a8-a283-0ce2892c0952.png)
 
 2. `New discussion`ボタンを押してください。
 ![image](https://user-images.githubusercontent.com/62638318/145526677-4707d576-c461-4778-9d27-a35b69c3c01f.png)
